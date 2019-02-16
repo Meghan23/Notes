@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365881097788",
+    "firebase_url": "https://notemaker-60f79.firebaseio.com",
+    "project_id": "notemaker-60f79",
+    "storage_bucket": "notemaker-60f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365881097788:android:982e9d9f39300f9f",
+        "android_client_info": {
+          "package_name": "com.example.meghanl.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365881097788-dadacdtbu8ih35u1v0mu1lcbnbk2v5m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meghanl.myapplication",
+            "certificate_hash": "ee6d06c39a015d6d5a5b177debfbefd62cb53585"
+          }
+        },
+        {
+          "client_id": "365881097788-1v41kk0fqvnukref01cai90fbad419a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUpgs9aNGm9P8sHoYG3W8d0HxP22Wmh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365881097788-1v41kk0fqvnukref01cai90fbad419a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
